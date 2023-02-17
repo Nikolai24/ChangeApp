@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChangeApp</string>
+    <string name="configuration_changes">Configuration changes</string>
+    <string name="number_square">Number square</string>
+    <string name="start_second_activity">Start second activity</string>
+    <string name="reset">Reset value</string>
+</resources>
